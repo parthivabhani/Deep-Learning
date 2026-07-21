@@ -66,7 +66,7 @@ Deep-Learning-Lab/
 | 11 | Convolutional Autoencoder on MNIST Dataset |
 | 12 | Generative Adversarial Network (GAN) |
 
-The above experiments are based on the official Deep Learning Laboratory practical list. :contentReference[oaicite:1]{index=1}
+The above experiments are based on the official Deep Learning Laboratory practical list.
 
 ---
 
@@ -111,13 +111,13 @@ By completing these practicals, I gained hands-on experience in:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/parthivabhani/Deep-Learning.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd your-repository-name
+cd Deep-Learning
 ```
 
 ### Install dependencies
