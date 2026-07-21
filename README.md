@@ -14,7 +14,7 @@ The objective of this repository is to provide a structured reference for unders
 
 ## 🚀 Technologies Used
 
-- Python 3.x
+- Python 3
 - Jupyter Notebook
 - TensorFlow
 - Keras
