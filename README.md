@@ -43,6 +43,7 @@ Deep-Learning-Lab/
 ├── Practical-10.ipynb
 ├── Practical-11.ipynb
 ├── Practical-12.ipynb
+├── DL-Lab.ipynb
 │
 └── README.md
 ```
