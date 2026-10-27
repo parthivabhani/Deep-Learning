@@ -31,19 +31,20 @@ The objective of this repository is to provide a structured reference for unders
 ```
 Deep-Learning-Lab/
 │
-├── Practical-01.ipynb
-├── Practical-02.ipynb
-├── Practical-03.ipynb
-├── Practical-04.ipynb
-├── Practical-05.ipynb
-├── Practical-06.ipynb
-├── Practical-07.ipynb
-├── Practical-08.ipynb
-├── Practical-09.ipynb
-├── Practical-10.ipynb
-├── Practical-11.ipynb
-├── Practical-12.ipynb
-├── DL-Lab.ipynb
+├── Market_Basket_Analysis.ipynb
+├── Practical1.ipynb
+├── Practical2.ipynb
+├── Practical3.ipynb
+├── Practical4.ipynb
+├── Practical5.ipynb
+├── Practical6.ipynb
+├── Practical7.ipynb
+├── Practical8.ipynb
+├── Practical9.ipynb
+├── Practical0.ipynb
+├── Practical1.ipynb
+├── Practical2.ipynb
+├── UptoP12.ipynb
 │
 └── README.md
 ```
