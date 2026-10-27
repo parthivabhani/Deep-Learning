@@ -41,9 +41,9 @@ Deep-Learning-Lab/
 ├── Practical7.ipynb
 ├── Practical8.ipynb
 ├── Practical9.ipynb
-├── Practical0.ipynb
-├── Practical1.ipynb
-├── Practical2.ipynb
+├── Practical10.ipynb
+├── Practical11.ipynb
+├── Practical12.ipynb
 ├── UptoP12.ipynb
 │
 └── README.md
